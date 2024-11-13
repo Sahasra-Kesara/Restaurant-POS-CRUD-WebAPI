@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD704A2-FD6F-4E4B-A5D9-76AF620D3244}|RestaurantPOS\\RestaurantPOS.csproj|d:\\stacknet projects\\dotnetpractice\\selflearn\\restaurantpos\\restaurantpos\\wwwroot\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0DD704A2-FD6F-4E4B-A5D9-76AF620D3244}|RestaurantPOS\\RestaurantPOS.csproj|solutionrelative:restaurantpos\\wwwroot\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD704A2-FD6F-4E4B-A5D9-76AF620D3244}|RestaurantPOS\\RestaurantPOS.csproj|d:\\stacknet projects\\dotnetpractice\\selflearn\\restaurantpos\\restaurantpos\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0DD704A2-FD6F-4E4B-A5D9-76AF620D3244}|RestaurantPOS\\RestaurantPOS.csproj|solutionrelative:restaurantpos\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD704A2-FD6F-4E4B-A5D9-76AF620D3244}|RestaurantPOS\\RestaurantPOS.csproj|d:\\stacknet projects\\dotnetpractice\\selflearn\\restaurantpos\\restaurantpos\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DD704A2-FD6F-4E4B-A5D9-76AF620D3244}|RestaurantPOS\\RestaurantPOS.csproj|solutionrelative:restaurantpos\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD704A2-FD6F-4E4B-A5D9-76AF620D3244}|RestaurantPOS\\RestaurantPOS.csproj|d:\\stacknet projects\\dotnetpractice\\selflearn\\restaurantpos\\restaurantpos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD704A2-FD6F-4E4B-A5D9-76AF620D3244}|RestaurantPOS\\RestaurantPOS.csproj|solutionrelative:restaurantpos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD704A2-FD6F-4E4B-A5D9-76AF620D3244}|RestaurantPOS\\RestaurantPOS.csproj|d:\\stacknet projects\\dotnetpractice\\selflearn\\restaurantpos\\restaurantpos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0DD704A2-FD6F-4E4B-A5D9-76AF620D3244}|RestaurantPOS\\RestaurantPOS.csproj|solutionrelative:restaurantpos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD704A2-FD6F-4E4B-A5D9-76AF620D3244}|RestaurantPOS\\RestaurantPOS.csproj|d:\\stacknet projects\\dotnetpractice\\selflearn\\restaurantpos\\restaurantpos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD704A2-FD6F-4E4B-A5D9-76AF620D3244}|RestaurantPOS\\RestaurantPOS.csproj|solutionrelative:restaurantpos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD704A2-FD6F-4E4B-A5D9-76AF620D3244}|RestaurantPOS\\RestaurantPOS.csproj|d:\\stacknet projects\\dotnetpractice\\selflearn\\restaurantpos\\restaurantpos\\restaurantpos.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0DD704A2-FD6F-4E4B-A5D9-76AF620D3244}|RestaurantPOS\\RestaurantPOS.csproj|solutionrelative:restaurantpos\\restaurantpos.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD704A2-FD6F-4E4B-A5D9-76AF620D3244}|RestaurantPOS\\RestaurantPOS.csproj|d:\\stacknet projects\\dotnetpractice\\selflearn\\restaurantpos\\restaurantpos\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD704A2-FD6F-4E4B-A5D9-76AF620D3244}|RestaurantPOS\\RestaurantPOS.csproj|solutionrelative:restaurantpos\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD704A2-FD6F-4E4B-A5D9-76AF620D3244}|RestaurantPOS\\RestaurantPOS.csproj|d:\\stacknet projects\\dotnetpractice\\selflearn\\restaurantpos\\restaurantpos\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD704A2-FD6F-4E4B-A5D9-76AF620D3244}|RestaurantPOS\\RestaurantPOS.csproj|solutionrelative:restaurantpos\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD704A2-FD6F-4E4B-A5D9-76AF620D3244}|RestaurantPOS\\RestaurantPOS.csproj|d:\\stacknet projects\\dotnetpractice\\selflearn\\restaurantpos\\restaurantpos\\controllers\\beveragecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD704A2-FD6F-4E4B-A5D9-76AF620D3244}|RestaurantPOS\\RestaurantPOS.csproj|solutionrelative:restaurantpos\\controllers\\beveragecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD704A2-FD6F-4E4B-A5D9-76AF620D3244}|RestaurantPOS\\RestaurantPOS.csproj|d:\\stacknet projects\\dotnetpractice\\selflearn\\restaurantpos\\restaurantpos\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD704A2-FD6F-4E4B-A5D9-76AF620D3244}|RestaurantPOS\\RestaurantPOS.csproj|solutionrelative:restaurantpos\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD704A2-FD6F-4E4B-A5D9-76AF620D3244}|RestaurantPOS\\RestaurantPOS.csproj|d:\\stacknet projects\\dotnetpractice\\selflearn\\restaurantpos\\restaurantpos\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD704A2-FD6F-4E4B-A5D9-76AF620D3244}|RestaurantPOS\\RestaurantPOS.csproj|solutionrelative:restaurantpos\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD704A2-FD6F-4E4B-A5D9-76AF620D3244}|RestaurantPOS\\RestaurantPOS.csproj|d:\\stacknet projects\\dotnetpractice\\selflearn\\restaurantpos\\restaurantpos\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD704A2-FD6F-4E4B-A5D9-76AF620D3244}|RestaurantPOS\\RestaurantPOS.csproj|solutionrelative:restaurantpos\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD704A2-FD6F-4E4B-A5D9-76AF620D3244}|RestaurantPOS\\RestaurantPOS.csproj|d:\\stacknet projects\\dotnetpractice\\selflearn\\restaurantpos\\restaurantpos\\models\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DD704A2-FD6F-4E4B-A5D9-76AF620D3244}|RestaurantPOS\\RestaurantPOS.csproj|solutionrelative:restaurantpos\\models\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "RestaurantPOS\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "RestaurantPOS\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAuwE8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T17:26:25.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RestaurantPOS\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RestaurantPOS\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T17:15:28.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\appsettings.json",
+              "RelativeDocumentMoniker": "RestaurantPOS\\appsettings.json",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\appsettings.json",
+              "RelativeToolTip": "RestaurantPOS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-13T17:18:26.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.js",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\wwwroot\\app.js",
+              "RelativeDocumentMoniker": "RestaurantPOS\\wwwroot\\app.js",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\wwwroot\\app.js",
+              "RelativeToolTip": "RestaurantPOS\\wwwroot\\app.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-13T17:48:51.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "RestaurantPOS\\wwwroot\\index.html",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\wwwroot\\index.html",
+              "RelativeToolTip": "RestaurantPOS\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-13T17:48:11.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RestaurantPOS\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RestaurantPOS\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-13T18:06:07.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\Program.cs",
+              "RelativeDocumentMoniker": "RestaurantPOS\\Program.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\Program.cs",
+              "RelativeToolTip": "RestaurantPOS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T17:21:24.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RestaurantPOS.http",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\RestaurantPOS.http",
+              "RelativeDocumentMoniker": "RestaurantPOS\\RestaurantPOS.http",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\RestaurantPOS.http",
+              "RelativeToolTip": "RestaurantPOS\\RestaurantPOS.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-13T18:05:49.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FoodController.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\Controllers\\FoodController.cs",
+              "RelativeDocumentMoniker": "RestaurantPOS\\Controllers\\FoodController.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\Controllers\\FoodController.cs",
+              "RelativeToolTip": "RestaurantPOS\\Controllers\\FoodController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T17:24:02.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BeverageController.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\Controllers\\BeverageController.cs",
+              "RelativeDocumentMoniker": "RestaurantPOS\\Controllers\\BeverageController.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\Controllers\\BeverageController.cs",
+              "RelativeToolTip": "RestaurantPOS\\Controllers\\BeverageController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T17:25:28.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Food.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\Models\\Food.cs",
+              "RelativeDocumentMoniker": "RestaurantPOS\\Models\\Food.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\Models\\Food.cs",
+              "RelativeToolTip": "RestaurantPOS\\Models\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T17:12:43.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "RestaurantPOS\\Models\\OrderItem.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\Models\\OrderItem.cs",
+              "RelativeToolTip": "RestaurantPOS\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T17:14:26.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "RestaurantPOS\\Models\\Order.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\Models\\Order.cs",
+              "RelativeToolTip": "RestaurantPOS\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T17:13:56.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Beverage.cs",
+              "DocumentMoniker": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\Models\\Beverage.cs",
+              "RelativeDocumentMoniker": "RestaurantPOS\\Models\\Beverage.cs",
+              "ToolTip": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\Models\\Beverage.cs",
+              "RelativeToolTip": "RestaurantPOS\\Models\\Beverage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T17:13:13.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

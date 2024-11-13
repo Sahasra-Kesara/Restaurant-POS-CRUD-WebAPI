@@ -1,0 +1,116 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant POS System</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            padding: 8px;
+            border: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        form {
+            margin-top: 20px;
+        }
+
+        input, select {
+            margin-bottom: 10px;
+            padding: 5px;
+            width: 200px;
+        }
+
+        button {
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+
+            button:hover {
+                background-color: #45a049;
+            }
+    </style>
+</head>
+<body>
+    <h1>Restaurant POS System</h1>
+
+    <section id="foods">
+        <h2>Foods</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Price</th>
+                    <th>Description</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody id="foods-list"></tbody>
+        </table>
+        <button onclick="loadFoods()">Reload Foods</button>
+    </section>
+
+    <section id="beverages">
+        <h2>Beverages</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Price</th>
+                    <th>Description</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody id="beverages-list"></tbody>
+        </table>
+        <button onclick="loadBeverages()">Reload Beverages</button>
+    </section>
+
+    <section>
+        <h3>Add New Food/Beverage</h3>
+        <form id="add-item-form">
+            <label>
+                Name:
+                <input type="text" id="name" required>
+            </label>
+            <label>
+                Price:
+                <input type="number" id="price" required>
+            </label>
+            <label>
+                Description:
+                <input type="text" id="description" required>
+            </label>
+            <label>
+                Type:
+                <select id="item-type">
+                    <option value="food">Food</option>
+                    <option value="beverage">Beverage</option>
+                </select>
+            </label>
+            <button type="submit">Add Item</button>
+        </form>
+    </section>
+
+    <script src="app.js"></script>
+</body>
+</html>

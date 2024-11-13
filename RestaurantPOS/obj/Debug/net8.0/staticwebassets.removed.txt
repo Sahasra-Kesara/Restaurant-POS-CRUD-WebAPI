@@ -1,0 +1,2 @@
+D:\StackNet Projects\dotnetpractice\SelfLearn\RestaurantPOS\RestaurantPOS\wwwroot\Frontend\app.js
+D:\StackNet Projects\dotnetpractice\SelfLearn\RestaurantPOS\RestaurantPOS\wwwroot\Frontend\index.html

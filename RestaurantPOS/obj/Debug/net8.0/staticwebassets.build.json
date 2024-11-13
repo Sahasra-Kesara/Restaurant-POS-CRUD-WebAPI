@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "Kwobpx5tPP4yu4BDHYLbxh3JzCiza/uYUBwA7lR3S3c=",
+  "Source": "RestaurantPOS",
+  "BasePath": "_content/RestaurantPOS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RestaurantPOS\\wwwroot",
+      "Source": "RestaurantPOS",
+      "ContentRoot": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\wwwroot\\",
+      "BasePath": "_content/RestaurantPOS",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\wwwroot\\app.js",
+      "SourceId": "RestaurantPOS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\wwwroot\\",
+      "BasePath": "_content/RestaurantPOS",
+      "RelativePath": "app#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xfdygbvko4",
+      "Integrity": "jYS/8NOj4sF7BAFz4Y/Ne7wwwGSp6eogOEs2j1eY0DY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.js"
+    },
+    {
+      "Identity": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\wwwroot\\index.html",
+      "SourceId": "RestaurantPOS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\wwwroot\\",
+      "BasePath": "_content/RestaurantPOS",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w3vqiic035",
+      "Integrity": "/LkrNgC77IFW4u0Lzre/WS83SGrfzb/bnKoPtjYcaZY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.js",
+      "AssetFile": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\wwwroot\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6320"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jYS/8NOj4sF7BAFz4Y/Ne7wwwGSp6eogOEs2j1eY0DY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Nov 2024 18:54:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jYS/8NOj4sF7BAFz4Y/Ne7wwwGSp6eogOEs2j1eY0DY="
+        }
+      ]
+    },
+    {
+      "Route": "app.xfdygbvko4.js",
+      "AssetFile": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\wwwroot\\app.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6320"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jYS/8NOj4sF7BAFz4Y/Ne7wwwGSp6eogOEs2j1eY0DY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Nov 2024 18:54:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xfdygbvko4"
+        },
+        {
+          "Name": "label",
+          "Value": "app.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jYS/8NOj4sF7BAFz4Y/Ne7wwwGSp6eogOEs2j1eY0DY="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/LkrNgC77IFW4u0Lzre/WS83SGrfzb/bnKoPtjYcaZY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Nov 2024 18:53:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/LkrNgC77IFW4u0Lzre/WS83SGrfzb/bnKoPtjYcaZY="
+        }
+      ]
+    },
+    {
+      "Route": "index.w3vqiic035.html",
+      "AssetFile": "D:\\StackNet Projects\\dotnetpractice\\SelfLearn\\RestaurantPOS\\RestaurantPOS\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2972"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/LkrNgC77IFW4u0Lzre/WS83SGrfzb/bnKoPtjYcaZY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 13 Nov 2024 18:53:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w3vqiic035"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/LkrNgC77IFW4u0Lzre/WS83SGrfzb/bnKoPtjYcaZY="
+        }
+      ]
+    }
+  ]
+}
